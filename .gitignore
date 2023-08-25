@@ -9,3 +9,4 @@ static
 media
 manage.py
 django_aws
+.terraform*
