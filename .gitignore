@@ -7,4 +7,5 @@ django-application
 __pycache__
 static
 media
+manage.py
 django_aws
